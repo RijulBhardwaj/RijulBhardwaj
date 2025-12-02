@@ -122,7 +122,7 @@ You can pin:
 
 ## 💼 Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/rijul-bhardwaj-22206629a">
+  <a href="https://www.linkedin.com/in/rijul-bhardwaj-22206629a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:rijulb03@gmail.com">
