@@ -17,7 +17,7 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,R,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,ts,c" />
 </p>
 
 ### **Machine Learning & AI**
