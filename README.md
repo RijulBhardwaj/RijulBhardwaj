@@ -17,15 +17,52 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,R,ts,c,cpp" />
 </p>
 
 ### **Machine Learning & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <!-- Core ML/DL Frameworks -->
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+
+  <!-- LLM / NLP / GenAI Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorchlightning/pytorchlightning-original.svg" width="48" />
+
+  <!-- Data & Model Utilities -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48" />
+
+  <!-- Experiment Tracking & MLOps -->
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/>
+
+  <!-- Model Serving / Deployment -->
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+
+  <!-- Cloud AI -->
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+
+  <!-- Specialized AI Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
 </p>
+
 
 ### **Data Engineering & Cloud**
 <p>
