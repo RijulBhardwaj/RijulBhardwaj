@@ -133,6 +133,6 @@ You can pin:
 ---
 
 ### ⭐ Fun Fact  
-I believe great AI systems come from the perfect blend of **math, code, creativity, and experimentation**.
+I believe great AI systems come from the perfect blend of **math, code, creativity, and experimentation. I also play cricket.**.
 
 ---
